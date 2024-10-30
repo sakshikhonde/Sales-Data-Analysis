@@ -1,8 +1,8 @@
 
-**Project Title: Sample Superstore Data Analysis**
+**Project Title: Sales Data Analysis**
 
 **Introduction**
- This Power BI project, titled “Sample Superstore Data Analysis,” aims to provide an overview of key business metrics using the Sample Superstore dataset.
+ This Power BI project, titled “Sales Data Analysis,” aims to provide an overview of key business metrics using the Sample Superstore dataset.
  The dashboard is designed to offer insights into various aspects of the business, enabling data-driven decision-making.
  By leveraging Power BI’s powerful visualization capabilities, this project transforms raw data into meaningful insights, enabling stakeholders to understand and act upon various aspects of the business.
 
