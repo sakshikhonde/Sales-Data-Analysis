@@ -1,4 +1,4 @@
-![Sample Superstore Data 30-10-2024 15_32_45](https://github.com/user-attachments/assets/7c9f5552-e616-4680-9c10-81928a184bd2)
+
 
 **Project Title: Sales Data Analysis**
 
