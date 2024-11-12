@@ -4,13 +4,13 @@
 
 **Project Title: Sales Data Analysis**
 
-**Introduction**
+**Introduction:**
 
  This Power BI project, titled “Sales Data Analysis,” aims to provide an overview of key business metrics using the Sales dataset.
  The dashboard is designed to offer insights into various aspects of the business, enabling data-driven decision-making.
  By leveraging Power BI’s powerful visualization capabilities, this project transforms raw data into meaningful insights, enabling stakeholders to understand and act upon various aspects of the business.
 
-**Key Features**
+**Key Features:**
 
 1. **Total Sales:** The dashboard highlights total sales amounting to \$2.30M, providing a quick overview of the revenue generated.
 2. **Profit Analysis:** With a total profit of \$286.40K, the dashboard breaks down profit by region and category, helping identify the most profitable areas and product categories.
